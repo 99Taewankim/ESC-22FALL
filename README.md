@@ -18,7 +18,7 @@
 |week 10<br>(11/10)|Linear and Generalized Linear Mixed Effects Models(FCB Chapter 11)<br/>발제자: 정연섭, 선대운| |
 |week 11<br>(11/17)|Final Project 중간 발표| |
 |week 12<br>(11/24)|Final Project 최종 발표| |
-|week 13<br>(12/1)|휴식| |
+|week 13<br>(12/1)|기말고사| |
 
 ## 정규세션 교재
 - Peter D. Hoff (2009). *First Course in Bayesian Statistical Methods*. Springer.
