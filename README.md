@@ -9,12 +9,12 @@
 |week 1<br>(9/8)|Bayesian Linear Regression(FCB Chapter 9)<br/>발제자: 김두은, 김채현, 임세희| |
 |week 2<br>(9/15,9/17)|About MCMC(Book & Chapter : various), Metropolis Algorithm(DBDA Chapter 7.2, 7.3), MCMC Diagnosis(FCB Chapter 6.6, DBDA Chapter 7.5)<br/>발제자: 홍유빈, 이종현, 이도형| 박재우 교수님 특강|
 |week 3<br>(9/22)|대동제 & 아카라카를 온누리에| |
-|week 4<br>(9/29)|About GLM(An Introduction to Generalized Linear Model Chapter 3)<br/>발제자: 김예찬, 김수민| |
+|week 4<br>(9/29)|About GLM(An Introduction to Generalized Linear Model Chapter 3)<br/>발제자: 김예찬, 김수민| Alumni 연사특강|
 |week 5<br>(10/6)|중간고사| |
 |week 6<br>(10/13)|중간고사| |
 |week 7<br>(10/20)|중간고사| |
 |week 8<br>(10/27)|휴식| |
-|week 9<br>(11/3)|Nonconjugate priors and Metropolis-Hastings Algorithms(FCB Chapter 10)<br/>발제자: 박태주, 김송희| |
+|week 9<br>(11/3)|Nonconjugate priors and Metropolis-Hastings Algorithms(FCB Chapter 10)<br/>발제자: 박태주, 김송희| Alumni 연사특강|
 |week 10<br>(11/10)|Linear and Generalized Linear Mixed Effects Models(FCB Chapter 11)<br/>발제자: 정연섭, 선대운| |
 |week 11<br>(11/17)|Final Project 중간 발표| |
 |week 12<br>(11/24)|Final Project 최종 발표| |
