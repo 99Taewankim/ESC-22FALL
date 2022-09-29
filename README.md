@@ -29,3 +29,4 @@
 ## 세션 영상 유튜브 링크
 - 220908 FALL week1 : Bayesian Linear Regression - https://youtu.be/ixjctaVG540
 - 220915 FALL week2 : MCMC, Metropolis Algorithm, MCMC Diagnostics - https://youtu.be/v9ZT5i61fOI
+- 220929 FALL week4 : Generalized Linear Model - https://youtu.be/yh9hAI3neKQ
