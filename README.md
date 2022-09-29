@@ -24,7 +24,7 @@
 - Peter D. Hoff (2009). *First Course in Bayesian Statistical Methods*. Springer.
 - John K. Kruschke (2014). *Doing Bayesian Data Analysis*. Academic Press.
 - Andrew Gelman (2004). *Bayesian Data Analysis*. Chapman & Hall/CRC.
-- Dobson, A.J (2018). *An Introduction to Generalized Linear Model*. CRC Press 
+- Dobson, A.J (2018). *An Introduction to Generalized Linear Model Fourth Edition*. CRC Press 
 
 ## 세션 영상 유튜브 링크
 - 220908 FALL week1 : Bayesian Linear Regression - https://youtu.be/ixjctaVG540
