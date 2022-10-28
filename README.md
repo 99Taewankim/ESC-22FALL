@@ -15,8 +15,8 @@
 |week 7<br>(10/20)|중간고사| |
 |week 8<br>(10/27)|휴식| |
 |week 9<br>(11/3,11/5)|Nonconjugate priors and Metropolis-Hastings Algorithms(FCB Chapter 10)<br/>발제자: 박태주, 김송희| Alumni 연사특강|
-|week 10<br>(11/10)|Linear and Generalized Linear Mixed Effects Models(FCB Chapter 11)<br/>발제자: 정연섭, 선대운| |
-|week 11<br>(11/17,11/19)|Final Project 중간 발표| Alumni 연사특강|
+|week 10<br>(11/10)|PwC 컨설팅 AI&A 설명회| |
+|week 11<br>(11/17,11/19)|Linear and Generalized Linear Mixed Effects Models(FCB Chapter 11)<br/>발제자: 정연섭, 선대운| Alumni 연사특강|
 |week 12<br>(11/24)|Final Project 최종 발표| |
 |week 13<br>(12/1)|기말고사| |
 
