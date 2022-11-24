@@ -32,3 +32,4 @@
 - 220929 FALL week4 : Generalized Linear Model - https://youtu.be/yh9hAI3neKQ
 - 221103 FALL week9 : Metropolis-Hastings Algorithm and Metropolis-Gibbs Algorithm - https://youtu.be/SSMBVmtOvhw
 - 221117 FALL week11 : Generalized Linear Mixed Models - https://youtu.be/bAWqNgGEilA
+- 221124 FALL week12 : Final Project Presentation - https://youtu.be/1_lBHG7fq-U
